@@ -3,6 +3,7 @@
   This is a interface project of a software designed at Faculdade de Tecnologia de Americana in human machine interface (HMI) subject
   (Interface Homem Máquina - IHC, in portuguese). The project has been designed by a group of 4 students.
  </p>
+ 
 ## Young Care
 <p align="justify">
   The software we think about, provides parents the hability of watching their kids while working in situations like home office, especially in those
