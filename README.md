@@ -11,7 +11,7 @@ one aren't friendly and are too dificult to use, being apropriate only to person
   
 ## Low-Fidelity Prototype
 <p align="center">
-  <img src="docs/images/baixafidelidade.jpg" />
+  <img src="docs/images/low-fidelity.jpg" />
 </p>
 
 ## Storyboard Prototype
@@ -22,4 +22,4 @@ one aren't friendly and are too dificult to use, being apropriate only to person
 PS: This project is under deveopment.
 
 ## License
-This project is released under MIT License. See [LICENSE]('LICENSE') for more info.
+This project is released under MIT License. See [LICENSE](https://github.com/Edsan7/project-interface-fatec/blob/main/LICENSE) for more info.
